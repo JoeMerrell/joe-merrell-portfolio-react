@@ -1,23 +1,34 @@
 {
   "files": {
-    "main.css": "/joe-merrell-portfolio-react/static/css/main.a617e044.chunk.css",
-    "main.js": "/joe-merrell-portfolio-react/static/js/main.7f31807d.chunk.js",
-    "main.js.map": "/joe-merrell-portfolio-react/static/js/main.7f31807d.chunk.js.map",
-    "runtime-main.js": "/joe-merrell-portfolio-react/static/js/runtime-main.cd169fd5.js",
-    "runtime-main.js.map": "/joe-merrell-portfolio-react/static/js/runtime-main.cd169fd5.js.map",
-    "static/js/2.e9eae32c.chunk.js": "/joe-merrell-portfolio-react/static/js/2.e9eae32c.chunk.js",
-    "static/js/2.e9eae32c.chunk.js.map": "/joe-merrell-portfolio-react/static/js/2.e9eae32c.chunk.js.map",
-    "static/js/3.44ef1f10.chunk.js": "/joe-merrell-portfolio-react/static/js/3.44ef1f10.chunk.js",
-    "static/js/3.44ef1f10.chunk.js.map": "/joe-merrell-portfolio-react/static/js/3.44ef1f10.chunk.js.map",
+    "main.css": "/joe-merrell-portfolio-react/static/css/main.657e5a1b.chunk.css",
+    "main.js": "/joe-merrell-portfolio-react/static/js/main.adf79501.chunk.js",
+    "main.js.map": "/joe-merrell-portfolio-react/static/js/main.adf79501.chunk.js.map",
+    "runtime-main.js": "/joe-merrell-portfolio-react/static/js/runtime-main.5ad25f1b.js",
+    "runtime-main.js.map": "/joe-merrell-portfolio-react/static/js/runtime-main.5ad25f1b.js.map",
+    "static/js/2.953dfcd3.chunk.js": "/joe-merrell-portfolio-react/static/js/2.953dfcd3.chunk.js",
+    "static/js/2.953dfcd3.chunk.js.map": "/joe-merrell-portfolio-react/static/js/2.953dfcd3.chunk.js.map",
     "index.html": "/joe-merrell-portfolio-react/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/joe-merrell-portfolio-react/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.e9eae32c.chunk.js.LICENSE.txt": "/joe-merrell-portfolio-react/static/js/2.e9eae32c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/joe-merrell-portfolio-react/static/media/logo.6ce24c58.svg"
+    "static/css/main.657e5a1b.chunk.css.map": "/joe-merrell-portfolio-react/static/css/main.657e5a1b.chunk.css.map",
+    "static/js/2.953dfcd3.chunk.js.LICENSE.txt": "/joe-merrell-portfolio-react/static/js/2.953dfcd3.chunk.js.LICENSE.txt",
+    "static/media/0.d7ab6f79.jpg": "/joe-merrell-portfolio-react/static/media/0.d7ab6f79.jpg",
+    "static/media/1.b9678c30.jpg": "/joe-merrell-portfolio-react/static/media/1.b9678c30.jpg",
+    "static/media/10.9b8614af.jpg": "/joe-merrell-portfolio-react/static/media/10.9b8614af.jpg",
+    "static/media/11.a9b3d6b3.jpg": "/joe-merrell-portfolio-react/static/media/11.a9b3d6b3.jpg",
+    "static/media/2.f9551d5a.jpg": "/joe-merrell-portfolio-react/static/media/2.f9551d5a.jpg",
+    "static/media/3.5cf060a8.jpg": "/joe-merrell-portfolio-react/static/media/3.5cf060a8.jpg",
+    "static/media/4.8a448e8b.jpg": "/joe-merrell-portfolio-react/static/media/4.8a448e8b.jpg",
+    "static/media/5.7e997566.jpg": "/joe-merrell-portfolio-react/static/media/5.7e997566.jpg",
+    "static/media/7.de3c53df.jpg": "/joe-merrell-portfolio-react/static/media/7.de3c53df.jpg",
+    "static/media/8.290514c9.jpg": "/joe-merrell-portfolio-react/static/media/8.290514c9.jpg",
+    "static/media/9.f52f1511.jpg": "/joe-merrell-portfolio-react/static/media/9.f52f1511.jpg",
+    "static/media/instagram.3e564ce8.png": "/joe-merrell-portfolio-react/static/media/instagram.3e564ce8.png",
+    "static/media/linkedin.2e0c9c16.png": "/joe-merrell-portfolio-react/static/media/linkedin.2e0c9c16.png",
+    "static/media/selfie.66442b4c.png": "/joe-merrell-portfolio-react/static/media/selfie.66442b4c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd169fd5.js",
-    "static/js/2.e9eae32c.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.7f31807d.chunk.js"
+    "static/js/runtime-main.5ad25f1b.js",
+    "static/js/2.953dfcd3.chunk.js",
+    "static/css/main.657e5a1b.chunk.css",
+    "static/js/main.adf79501.chunk.js"
   ]
 }
