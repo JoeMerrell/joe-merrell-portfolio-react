@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/joe-merrell-portfolio-react/static/css/main.a617e044.chunk.css",
+    "main.js": "/joe-merrell-portfolio-react/static/js/main.7f31807d.chunk.js",
+    "main.js.map": "/joe-merrell-portfolio-react/static/js/main.7f31807d.chunk.js.map",
+    "runtime-main.js": "/joe-merrell-portfolio-react/static/js/runtime-main.cd169fd5.js",
+    "runtime-main.js.map": "/joe-merrell-portfolio-react/static/js/runtime-main.cd169fd5.js.map",
+    "static/js/2.e9eae32c.chunk.js": "/joe-merrell-portfolio-react/static/js/2.e9eae32c.chunk.js",
+    "static/js/2.e9eae32c.chunk.js.map": "/joe-merrell-portfolio-react/static/js/2.e9eae32c.chunk.js.map",
+    "static/js/3.44ef1f10.chunk.js": "/joe-merrell-portfolio-react/static/js/3.44ef1f10.chunk.js",
+    "static/js/3.44ef1f10.chunk.js.map": "/joe-merrell-portfolio-react/static/js/3.44ef1f10.chunk.js.map",
+    "index.html": "/joe-merrell-portfolio-react/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/joe-merrell-portfolio-react/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e9eae32c.chunk.js.LICENSE.txt": "/joe-merrell-portfolio-react/static/js/2.e9eae32c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/joe-merrell-portfolio-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd169fd5.js",
+    "static/js/2.e9eae32c.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.7f31807d.chunk.js"
+  ]
+}
