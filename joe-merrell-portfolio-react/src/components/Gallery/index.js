@@ -5,6 +5,11 @@ import image2 from '../../assets/images/cg-large/2.jpg';
 import image3 from '../../assets/images/cg-large/3.jpg';
 import image4 from '../../assets/images/cg-large/4.jpg';
 import image5 from '../../assets/images/cg-large/5.jpg';
+import image7 from '../../assets/images/cg-large/7.jpg';
+import image8 from '../../assets/images/cg-large/8.jpg';
+import image9 from '../../assets/images/cg-large/9.jpg';
+import image10 from '../../assets/images/cg-large/10.jpg';
+import image11 from '../../assets/images/cg-large/11.jpg';
 
 
 function Gallery() {
@@ -32,6 +37,21 @@ function Gallery() {
             <div className='col-lg-4 col-md-6 mb-4'>
                 <img src={image4} className='img-fluid mb-4'></img>
                 <img src={image5} className='img-fluid mb-4'></img>
+            </div>
+
+            <div className='col-lg-4 col-md-6 mb-4'>
+                <img src={image8} className='img-fluid mb-4'></img>
+                <img src={image9} className='img-fluid mb-4'></img>
+            </div>
+
+            <div className='col-lg-4 col-md-6 mb-4'>
+                <img src={image7} className='img-fluid mb-4'></img>
+                {/* <img src={image9} className='img-fluid mb-4'></img> */}
+            </div>
+
+            <div className='col-lg-4 col-md-6 mb-4'>
+                <img src={image10} className='img-fluid mb-4'></img>
+                <img src={image11} className='img-fluid mb-4'></img>
             </div>
 
 
