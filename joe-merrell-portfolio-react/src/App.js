@@ -5,6 +5,7 @@ import Contact from './components/Contact';
 import ImageGallery from './components/Gallery';
 import Projects from './components/Projects';
 import Resume from './components/Resume';
+import Footer from './components/Footer';
 
 function App() {
   const [currentPage, handlePageChange] = useState('About');
@@ -36,6 +37,8 @@ function App() {
     <div>
       <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
       <div>{renderPage(currentPage)}</div>
+      <div className='container-fluid'><Footer /></div>
+      
     </div>
   );
 }

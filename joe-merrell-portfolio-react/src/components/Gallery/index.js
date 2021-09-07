@@ -45,11 +45,6 @@ function Gallery() {
             </div>
 
             <div className='col-lg-4 col-md-6 mb-4'>
-                <img src={image7} className='img-fluid mb-4'></img>
-                {/* <img src={image9} className='img-fluid mb-4'></img> */}
-            </div>
-
-            <div className='col-lg-4 col-md-6 mb-4'>
                 <img src={image10} className='img-fluid mb-4'></img>
                 <img src={image11} className='img-fluid mb-4'></img>
             </div>
