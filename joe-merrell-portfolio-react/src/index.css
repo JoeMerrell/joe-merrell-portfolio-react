@@ -2,6 +2,30 @@ body {
   font-family: 'IBM Plex Sans', sans-serif;
 }
 
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
+
+.text-field {
+  margin-left: 10px;
+}
+
+
 .decor {
   border-bottom-color:transparent;
 }
@@ -14,9 +38,9 @@ main {
 
 :root {
   --primary: #8c54ff;
-  --secondary: #cccccc;
+  --secondary: white;
   --tertiary: #B12704;
-  --light: #cccccc;
+  --light: white;
   --dark: #000000;
   --darker: #111111;
   --error: rgb(228, 46, 1);
@@ -40,16 +64,16 @@ body {
 
 .basic {
   font-size: 14px;
-  color:#cccccc;
+  color: white;
 }
 
 .text-head {
-  color:#cccccc;
+  color:white;
 }
 
 .navbar-font {
   font-size: 16px;
-  color:#cccccc;
+  color: white;
   margin-right: var(--spacing-three);
   margin-left: var(--spacing-three);
 }

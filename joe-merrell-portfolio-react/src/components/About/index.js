@@ -33,13 +33,6 @@ function About() {
             <div className="col col-lg-2"></div>
         </div>
 
-        {/* <div className='container-fluid mt-3'>
-                <img src={selfie} className='image-space' width="40"></img>
-                <img src={instagram} className='image-space' width="40"></img>
-                <img src={linkedin} width="40"></img>
-                
-            </div> */}
-
       </div>
 
     </section>

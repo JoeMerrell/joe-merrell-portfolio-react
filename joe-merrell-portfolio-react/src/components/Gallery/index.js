@@ -17,7 +17,7 @@ function Gallery() {
         <section className='container-fluid mt-5'>
 
         <h5 className='container-fluid mb-3'>Gallery</h5>
-        <p className="container-fluid basic">Models and images created using Cinema4D, Photoshop, and AfterEffects</p>
+        <p className="text-field container-fluid basic">Models and images created using Cinema4D, Photoshop, and AfterEffects</p>
 
         <div className='container-fluid row'>
 

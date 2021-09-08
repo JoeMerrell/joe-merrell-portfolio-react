@@ -40,31 +40,38 @@ function ContactForm() {
     // console.log(formState);
 
     return (
-        <section>
-          <h1>Contact me</h1>
+        <section className='container-fluid mt-5'>
+          <h5 className='container-fluid'>Contact me</h5>
           <form id="contact-form" onSubmit={handleSubmit}>
-            <div>
+            <div className='container-fluid mt-4'>
                 <label htmlFor="name">Name:</label>
+            </div>
+                <div className='text-field mt-1'>
                 <input type="text" defaultValue={name} onBlur={handleChange} name="name" />
             </div>
-            <div>
-                <label htmlFor="email">Email address:</label>
+
+            <div className='container-fluid mt-2'>
+                <label htmlFor="email">Email:</label>
+            </div>
+            <div className='text-field mt-1'>
                 <input type="email" defaultValue={email} name="email" onBlur={handleChange} />
             </div>
-            <div>
+
+            <div className='container-fluid mt-3'>
                 <label htmlFor="message">Message:</label>
-                <textarea name="message" defaultValue={message} onBlur={handleChange} rows="5" />
+                <textarea className='mt-1' name="message" defaultValue={message} onBlur={handleChange} rows="5" />
             </div>
 
             {/* if error message has a truthy value, this block will render -- if it doesn't have a truthy value, it won't render: */}
 
             {errorMessage && (
               <div>
-                <p className="error-text">{errorMessage}</p>
+                <p className="container-fluid error-text basic">{errorMessage}</p>
               </div>
             )}
-
-            <button type="submit">Submit</button>
+            <div className='container-fluid'>
+            <button className='mt-2 btn btn-outline-light' type="submit">Submit</button>
+            </div>
           </form>
         </section>
       )

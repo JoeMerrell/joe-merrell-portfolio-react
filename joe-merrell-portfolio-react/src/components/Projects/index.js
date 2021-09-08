@@ -13,7 +13,7 @@ const repos = [
     },
     {
         id: 2,
-        name: 'Weather Dashboard',
+        name: 'WEATHER DASHBOARD',
         git: 'https://github.com/JoeMerrell/weather-dashboard',
         deploy:'https://joemerrell.github.io/weather-dashboard/',
         description: 'A simple web app that allows users to search for current weather information',
@@ -21,7 +21,7 @@ const repos = [
     },
     {
         id: 3,
-        name: 'README Generator',
+        name: 'README GENERATOR',
         git:'https://github.com/JoeMerrell/readme-generator',
         deploy: 'N/A',
         description: 'A very useful terminal-based app that, once downloaded, generates a README.md file based on user input. See GitHub repo for instructions (in README.md file)',
@@ -29,7 +29,7 @@ const repos = [
     },   
     {
         id: 4,
-        name: 'Password Generator',
+        name: 'PASSWORD GENERATOR',
         git: 'https://github.com/JoeMerrell/password-generator',
         deploy: 'https://joemerrell.github.io/password-generator/',
         description: 'A simple web app that allows users to generate passwords of varying lengths based on a set of selectable criteria',
@@ -37,7 +37,7 @@ const repos = [
     }, 
     {
         id: 5,
-        name: 'Work Day Scheduler',
+        name: 'WORK DAY SCHEDULER',
         git: 'https://github.com/JoeMerrell/work-day-scheduler',
         deploy: 'https://joemerrell.github.io/work-day-scheduler/',
         description: 'A browser-based planner for the workday',
@@ -45,7 +45,7 @@ const repos = [
     },
     {
         id: 6,
-        name: 'Budget Tracker',
+        name: 'BUDGET TRACKER',
         git: 'https://github.com/JoeMerrell/budget-tracker',
         deploy: 'https://joemerrell.github.io/budget-tracker/',
         description: 'A simple browser-based financial tracker',
